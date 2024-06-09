@@ -35,7 +35,7 @@ control system using particle swarm optimization[J]. Control Engineering Practic
 4. Wang Y, Luo X, Song Y, et al. Simultaneous reconstruction of the surface heat flux and the source term
 in 3D linear parabolic problem by modified conjugate gradient method[J]. Mathematical Methods in the
 Applied Sciences, 2017, 40(8): 2847-2858. (SCI 检索，JCR1 区)
-5. Wang Y, Luo X, Yu Y, et al. Evaluation of heat transfer coefficients in continuous casting under large disturbance by weighted least squares Levenberg-Marquardt method[J]. Applied Thermal Engineering, 2017,
+5. Wang Y, Luo X, Yu Y, et al. Evaluation of heat transfer coefficients in continuous casting under large disturbance by weighted least squares Levenberg-Marquardt method[J]. Applied Thermal Engineering, 2017,
 111: 989-996. (SCI 检索，JCR1 区，TOP 期刊)
 6. Wang Y, Luo X, Yu Y, et al. Optimal control of twoffdimensional parabolic partial differential equations
 with application to steel billets cooling in continuous casting secondary cooling zone[J]. Optimal Control
@@ -52,10 +52,10 @@ application to continuous casting[J]. Computers & Mathematics with Applications,
 Lagrangian relaxation approach and DC algorithm[J]. Computers & Industrial Engineering, 2020, 140(10):
 106-119. (SCI 检索，JCR1 区, TOP 期刊)
 11. Cui H, Luo X, Wang Y. Scheduling of steelmaking-continuous casting process with different processing
-routes using effective surrogate Lagrangian relaxation approach[J]. International Journal of Production Research, 2021: 1-26. (SCI 检索，JCR1 区, TOP 期刊)
+routes using effective surrogate Lagrangian relaxation approach[J]. International Journal of Production Research, 2021: 1-26. (SCI 检索，JCR1 区, TOP 期刊)
 12. Zhang Z, Wang Y, Liu C. Multihoming effect on the two-sided platform of second-hand cars[J]. Computers
 & Industrial Engineering, 2023, 179: 109160. (SCI 检索，JCR1 区, TOP 期刊)
-13.  Qian X, Mao J, Wang Y, et al. A column generation-based framework for ATFM incorporating a userdriven prioritization process[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 1642-1663. (SCI
+13.  Qian X, Mao J, Wang Y, et al. A column generation-based framework for ATFM incorporating a user-driven prioritization process[J]. Transportmetrica B: Transport Dynamics, 2023, 11(1): 1642-1663. (SCI
 检索，JCR3 区)
 14. Zhang Z, Wang Y. New-arrival or second-hand? A direct-to-consumer business model for electric vehicles
 in the sustainable transportation[J]. Energy Reports, 2023, 10: 3035-3038. (SCI 检索，JCR2 区)
@@ -65,10 +65,10 @@ Thermal Sciences, 2023, 190: 108284. (SCI 检索，JCR1 区)
 
 Project 
 ======
-1. 深圳市大数据研究院内部项目，混合整数线性规划求解器研发项目, 深圳大数据研究院, 2022/12-2024/12
-2. 混合线性整数规划的 Re-optimization and Repair 技术, 华为, 2022/11-2023/10
-3. 航空领域专用求解器预研项目, 南方航空公司, 2023/9-2023/12
-4. 国家重点研发计划, 2023YFA1000032, 复杂系统的通用优化模型、理论与算法及其应用, 2023/12-2027/12
-5. 国家自然科学基金联合项目, U1733102, 基于协同决策机制的具有复杂度和鲁棒性感知的多机四维航迹规划, 2018/01-2020/12
-6. 国家自然科学基金重点项目, 61333006, 炼钢-连铸流程生产调控与过程控制协调优化模块方法及应用, 2014/01-2018/12
+1. 深圳市大数据研究院内部项目，混合整数线性规划求解器研发项目, 深圳市大数据研究院, 参与, 2022/12-2024/12
+2. 混合线性整数规划的 Re-optimization and Repair 技术, 华为, 参与, 2022/11-2023/10
+3. 航空领域专用求解器预研项目, 南方航空公司, 参与, 2023/9-2023/12
+4. 国家重点研发计划, 2023YFA1000032, 复杂系统的通用优化模型、理论与算法及其应用, 参与, 2023/12-2027/12
+5. 国家自然科学基金联合项目, U1733102, 基于协同决策机制的具有复杂度和鲁棒性感知的多机四维航迹规划, 参与, 2018/01-2020/12
+6. 国家自然科学基金重点项目, 61333006, 炼钢-连铸流程生产调控与过程控制协调优化模块方法及应用, 参与, 2014/01-2018/12
 
