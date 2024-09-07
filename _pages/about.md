@@ -12,7 +12,8 @@ Yuan Wang received the B.E. and Ph.D. degrees in automation science from Northea
 Work Experience
 ======
 1. Huawei Noah’s Ark Decision and Inference Laboratory, Software Engineer (Intern), 2019/02-2019/06
-2. The Chinese University of Hong Kong (Shenzhen),  School of Data Science, Postdoctoral Research, 2019/10-2022/10
+2. The Chinese University of Hong Kong (Shenzhen), School of Data Science, Postdoctoral Research, 2019/10-2022/10
+3. Shenzhen Research Institute of Big Data, Research Scientist, 2019/11 - present   
 
 Research Interests
 ======
@@ -59,16 +60,18 @@ routes using effective surrogate Lagrangian relaxation approach[J]. Internationa
 检索，JCR3 区)
 14. Zhang Z, Wang Y. New-arrival or second-hand? A direct-to-consumer business model for electric vehicles
 in the sustainable transportation[J]. Energy Reports, 2023, 10: 3035-3038. (SCI 检索，JCR2 区)
-15. Wang H, Luo X, Wang Y. Identification of heat transfer coefficients in continuous casting by a GPUbased improved comprehensive learning particle swarm optimization algorithm[J]. International Journal of
+15. Wang H, Luo X, Wang Y. Identification of heat transfer coefficients in continuous casting by a GPU-based improved comprehensive learning particle swarm optimization algorithm[J]. International Journal of
 Thermal Sciences, 2023, 190: 108284. (SCI 检索，JCR1 区)
 
 
 Project 
 ======
 1. 深圳市大数据研究院内部项目，混合整数线性规划求解器研发项目, 深圳市大数据研究院, 参与, 2022/12-2024/12
-2. 混合线性整数规划的 Re-optimization and Repair 技术, 华为, 参与, 2022/11-2023/10
-3. 航空领域专用求解器预研项目, 南方航空公司, 参与, 2023/9-2023/12
-4. 国家重点研发计划, 2023YFA1000032, 复杂系统的通用优化模型、理论与算法及其应用, 参与, 2023/12-2027/12
-5. 国家自然科学基金联合项目, U1733102, 基于协同决策机制的具有复杂度和鲁棒性感知的多机四维航迹规划, 参与, 2018/01-2020/12
-6. 国家自然科学基金重点项目, 61333006, 炼钢-连铸流程生产调控与过程控制协调优化模块方法及应用, 参与, 2014/01-2018/12
+2. 横向项目, 混合线性整数规划的 Re-optimization and Repair 技术, 华为, 参与, 2022/11-2023/10
+3. 横向项目, 基于NPU算力的矩阵化邻域优化技术合作项目, 华为, 参与, 2024-09-2025-10
+4. 国家自然科学基金面上项目, 多重时间相关约束下受扰航班与旅客行程恢复的优化方法及其参数自适应校正研究, 参与, 2025/01-2028/12/31
+5. 横向项目, 航空领域专用求解器预研项目, 南方航空公司, 参与, 2023/9-2023/12
+6. 国家重点研发计划, 2023YFA1000032, 复杂系统的通用优化模型、理论与算法及其应用, 参与, 2023/12-2027/12
+7. 国家自然科学基金联合项目, U1733102, 基于协同决策机制的具有复杂度和鲁棒性感知的多机四维航迹规划, 参与, 2018/01-2020/12
+8. 国家自然科学基金重点项目, 61333006, 炼钢-连铸流程生产调控与过程控制协调优化模块方法及应用, 参与, 2014/01-2018/12
 
