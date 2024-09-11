@@ -13,7 +13,7 @@ Work Experience
 ======
 1. Huawei Noah’s Ark Decision and Inference Laboratory, Software Engineer (Intern), 2019/02-2019/06
 2. The Chinese University of Hong Kong (Shenzhen), School of Data Science, Postdoctoral Research, 2019/10-2022/10
-3. Shenzhen Research Institute of Big Data, Research Scientist, 2019/11 - present   
+3. Shenzhen Research Institute of Big Data, Research Scientist, 2022/11 - present   
 
 Research Interests
 ======
