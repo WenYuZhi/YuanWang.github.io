@@ -11,7 +11,7 @@ Yuan Wang received the B.E. and Ph.D. degrees in automation science from Northea
 
 Work Experience
 ======
-1. Huawei Noah’s Ark Decision and Inference Laboratory, Software Engineer (Intern), 2019/02-2019/06
+1. Huawei Noah’s Ark Decision and Inference Laboratory (华为诺亚方舟决策与推理实验室), Software Engineer (Intern), 2019/02-2019/06
 2. The Chinese University of Hong Kong (Shenzhen), School of Data Science, Postdoctoral Research, 2019/10-2022/10
 3. Shenzhen Research Institute of Big Data, Research Scientist, 2022/11 - present
 
@@ -69,9 +69,9 @@ in the sustainable transportation[J]. Energy Reports, 2023, 10: 3035-3038. (SCI 
 Thermal Sciences, 2023, 190: 108284. (SCI Index，JCR1)
 
 
-在研项目
+Ongoing Projects
 ======
-1. 国家重点研发计划, 复杂系统的通用优化模型、理论与算法及其应用, 科技部，参与, 2023/12-2027/12
+1. 国家重点研发计划, 复杂系统的通用优化模型、理论与算法及其应用, 中华人民共和国科技部, 参与, 2023/12-2027/12
 2. 横向项目, 基于NPU算力的矩阵化邻域优化技术合作项目, 华为, 参与, 2024/09-2025/12
 3. 深圳市大数据研究院内部项目，混合整数线性规划求解器研发项目第二期, 深圳市大数据研究院, 参与, 2025/08-2026/09
 4. 国家自然科学基金面上项目, 多重时间相关约束下受扰航班与旅客行程恢复的优化方法及其参数自适应校正研究, 国家自然科学基金委, 参与, 2025/01-2028/12
@@ -79,7 +79,7 @@ Thermal Sciences, 2023, 190: 108284. (SCI Index，JCR1)
 6. 横向项目, 玛氏箭牌订单动态履约系统研发, 玛氏箭牌, 主持, 2025/03-2025/09
 7. 横向项目, APS系统中模具调拨优化算法研发，链宇科技，主持，2025/06-2025/12
 
-已结题项目
+Completed Projects
 ======
 1. 横向项目, 混合线性整数规划的 Reoptimization and Repair 技术, 华为, 参与, 2022/11-2023/10
 2. 横向项目, 航空领域专用求解器预研项目, 南方航空公司, 参与, 2023/09-2023/12
