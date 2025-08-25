@@ -1,0 +1,30 @@
+---
+title: '整数规划基础理论'
+date: 2024-05-29
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+1. [整数规划预求解核心技术：Domain Propagation](https://zhuanlan.zhihu.com/p/602281860)
+2. [整数规划预求解技术: Simple Probing](https://zhuanlan.zhihu.com/p/714667077)
+3. [整数规划预求解技术如何判断一个约束是冗余的](https://zhuanlan.zhihu.com/p/715795943)
+4. [整数规划预求解技术:Dual Fixing](https://zhuanlan.zhihu.com/p/721515304)
+5. [整数规划预求解技术:Clique Merge](https://zhuanlan.zhihu.com/p/731373218)
+6. [整数规划预求解技术如何判断一个变量是否是冗余的](https://zhuanlan.zhihu.com/p/748307076)
+7. [整数规划系列笔记](https://zhuanlan.zhihu.com/p/406262088)
+8. [整数规划与数论的联系](https://zhuanlan.zhihu.com/p/700415530)
+9. [整数规划拉格朗日对偶](https://zhuanlan.zhihu.com/p/340131448)
+10. [背包约束的最强割平面(Lifting Minimal Cover Inequalities)](https://zhuanlan.zhihu.com/p/23166816585)
+11. [线性规划与混合整数线性规划未来发展](https://zhuanlan.zhihu.com/p/22809674591)
+12. [整数规划对称性](https://zhuanlan.zhihu.com/p/655231400)
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
